@@ -2,12 +2,13 @@
     background-color: black;
 }
 table,tr,td{
-    border: 1px solid white;
-    border-collapse: collapse;
+    border: 1px solid red;
 }
 
 td{
     color: white;
+    border: 0;
+    padding: 5px;
 }
 
 .container{
