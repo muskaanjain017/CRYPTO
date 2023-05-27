@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+table,tr,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+td{
+    color: white;
+}
+
+.container{
+    display: flex;
+    
+}
+.container div input{
+    color:white;
+    padding:5px 10px;
+}
+.main{
+    display:flex;
+    flex-flow:column;
+    justify-content: center;
+    align-items: center;
+}
